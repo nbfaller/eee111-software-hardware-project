@@ -1,4 +1,8 @@
 # eee111-software-hardware-project
+Nicolas Faller, Jr.
+2018-08343
+EEE 111 THQR2
+
 This project consists of a program which emulates the facial recognition capabilities of "Snapchat",
 wherein users may apply filters on their faces using the webcam feed.
 
