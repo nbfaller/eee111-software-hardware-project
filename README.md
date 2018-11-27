@@ -1,5 +1,5 @@
 # eee111-software-hardware-project
-Nicolas Faller, Jr.\n
+Nicolas Faller, Jr./n
 2018-08343\n
 EEE 111 THQR2
 
